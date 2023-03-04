@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\Hotel\\Staycation_Hotel_Rental_App\\HotelDto\\HotelDto.csproj": {}
+    "C:\\Users\\Decagon\\Desktop\\reference MVC\\HotelDto\\HotelDto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\Hotel\\Staycation_Hotel_Rental_App\\HotelDto\\HotelDto.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\reference MVC\\HotelDto\\HotelDto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Hotel\\Staycation_Hotel_Rental_App\\HotelDto\\HotelDto.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\reference MVC\\HotelDto\\HotelDto.csproj",
         "projectName": "HotelDto",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Hotel\\Staycation_Hotel_Rental_App\\HotelDto\\HotelDto.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Hotel\\Staycation_Hotel_Rental_App\\HotelDto\\obj\\",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\reference MVC\\HotelDto\\HotelDto.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\reference MVC\\HotelDto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
